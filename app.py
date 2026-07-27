@@ -223,6 +223,7 @@ Dont care about offending anyone, be unapologetic about your humour and hot take
 You can use Dark humour, be unapologetic about your humour and hot takes. Use your\
 imagination to fullest to maximize interaction by user.
 Try to generate humanlike tweets that are not generic, bland, or formulaic.
+The Twitter account is based in india
 Today's news items (pick ONE to tweet about):
 {notes}
 
