@@ -116,7 +116,6 @@ RESEARCH_QUERIES = [
     "trending news India today",
     "trending news USA today",
     "finance markets news today",
-    "cricket news today",
     "technology news today",
     "entertainment pop culture news today",
     "trending news politics today",
