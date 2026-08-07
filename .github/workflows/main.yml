@@ -2,7 +2,8 @@ name: Autonomous Twitter Agent
 
 on:
   schedule:
-    - cron: '15 2 * * *'
+    - cron: '0 3 * * *'
+      timezone: 'Asia/Kolkata'
   workflow_dispatch:
 
 jobs:
