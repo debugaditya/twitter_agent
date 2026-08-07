@@ -29,7 +29,7 @@ os.environ.setdefault("LANGCHAIN_PROJECT", "twitter-agent")
 
 print("[DEBUG] Initializing Gemini LLM...")
 llm = ChatGoogleGenerativeAI(
-    model="gemini-3.6-flash",
+    model="gemini-3.1-pro-preview", # The most advanced model for complex reasoning
     temperature=1.0,
     max_retries=2,
     google_api_key=os.getenv("GEMINI_API_KEY"),
